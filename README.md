@@ -5,6 +5,9 @@ Weather API assessment for Spearline Product Engineering Graduate Programme
 The IDE used is PycharmProjects, and Weather API is "https://openweathermap.org/". 
 This project make use the following external libraries: Json, requests.
 
+# API Key
+You can get free API keys by signing up an account in https://openweathermap.org/
+
 # Downloading Module
 To download the module, you need to :
 -install requests module (pip install requests)
